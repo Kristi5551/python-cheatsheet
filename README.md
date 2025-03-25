@@ -44,7 +44,7 @@ List
 
 ```python
 <list>.sort()                   # Ls
-<list>.reverse()                # Reverses the list in-place.
+<list>.reverse()                # Ls1.
 <list> = sorted(<collection>)   # Returns new list with sorted elements.
 <iter> = reversed(<list>)       # Returns reversed iterator of elements.
 ```
