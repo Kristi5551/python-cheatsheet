@@ -43,7 +43,7 @@ List
 ```
 
 ```python
-<list>.sort()                   # Sorts elements in ascending order.
+<list>.sort()                   # Ls
 <list>.reverse()                # Reverses the list in-place.
 <list> = sorted(<collection>)   # Returns new list with sorted elements.
 <iter> = reversed(<list>)       # Returns reversed iterator of elements.
